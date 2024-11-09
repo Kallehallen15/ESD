@@ -33,4 +33,5 @@ https://github.com/SpacehuhnTech/duckify
 
 https://github.com/SpacehuhnTech/serialterminal
 
-https://github.com/SpacehuhnTech/serialterminal
+
+https://github.com/SpacehuhnTech/espwebtool
