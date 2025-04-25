@@ -3,7 +3,7 @@ import subprocess
 import time
 cmd = os.system
 #change your path dir here
-path = '/home/user/Desktop/ESD'
+path = '/home/$USER/ESD'
 
 
 def ewt():
